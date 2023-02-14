@@ -1,0 +1,10 @@
+GET http://localhost:9000/
+
+###
+
+POST http://localhost:9000/tokenGeneration
+
+###
+
+POST http://localhost:9000/tokenVerification
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJvY3RiYXRjaCIsImVtYWlsIjoib2N0QGdtYWlsLmNvbSIsImlhdCI6MTY3MjMxNDM0OCwiZXhwIjoxNjcyMzE0NDA4fQ.8UfddmiF47jACoAqFuw5kXaY_BARKY9VycVDhtjzFm4
